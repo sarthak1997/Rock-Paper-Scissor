@@ -1,0 +1,18 @@
+c:\users\sarthakj\documents\visual studio 2010\Projects\RPS\RPS\bin\Debug\RPS.exe
+c:\users\sarthakj\documents\visual studio 2010\Projects\RPS\RPS\bin\Debug\RPS.pdb
+c:\users\sarthakj\documents\visual studio 2010\Projects\RPS\RPS\obj\x86\Debug\RPS.Main.resources
+c:\users\sarthakj\documents\visual studio 2010\Projects\RPS\RPS\obj\x86\Debug\RPS.Properties.Resources.resources
+c:\users\sarthakj\documents\visual studio 2010\Projects\RPS\RPS\obj\x86\Debug\RPS.csproj.GenerateResource.Cache
+c:\users\sarthakj\documents\visual studio 2010\Projects\RPS\RPS\obj\x86\Debug\RPS.exe
+c:\users\sarthakj\documents\visual studio 2010\Projects\RPS\RPS\obj\x86\Debug\RPS.pdb
+c:\users\sarthakj\documents\visual studio 2010\Projects\RPS\RPS\obj\x86\Debug\RPS.RPS.resources
+C:\Users\SarthakJ\documents\visual studio 2010\Projects\RPS\RPS\obj\x86\Debug\RPS.csprojResolveAssemblyReference.cache
+C:\Users\SarthakJ\documents\visual studio 2010\Projects\RPS\RPS\obj\x86\Debug\RPS.Final.resources
+C:\Users\SarthakJ\documents\visual studio 2010\Projects\RPS\RPS\obj\x86\Debug\RPS.Choose.resources
+C:\Users\SarthakJ\documents\visual studio 2010\Projects\RPS\RPS\obj\x86\Debug\RPS.RULE1.resources
+C:\Users\SarthakJ\documents\visual studio 2010\Projects\RPS\RPS\obj\x86\Debug\RPS.RULE2.resources
+C:\Users\SarthakJ\documents\visual studio 2010\Projects\RPS\RPS\obj\x86\Debug\RPS.RPS2.resources
+C:\Users\rohan\Desktop\RPS\RPS\obj\x86\Debug\RPS.exe
+C:\Users\rohan\Desktop\RPS\RPS\obj\x86\Debug\RPS.pdb
+F:\RPS\RPS\obj\x86\Debug\RPS.exe
+F:\RPS\RPS\obj\x86\Debug\RPS.pdb
